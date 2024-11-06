@@ -1,0 +1,11 @@
+**/bin
+**/obj
+**/.vs
+**/**/bin
+**/**/obj
+**/**/.vs
+**.user
+**/.user
+**.yml
+**/.yml
+
